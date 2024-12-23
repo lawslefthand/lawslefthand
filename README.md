@@ -23,4 +23,4 @@ Welcome to my GitHub profile. Here you'll find a collection of my projects, cont
 
 ---
 
-Thanks for stopping by! 😊
+Stay frosty.
