@@ -3,6 +3,7 @@
 Welcome to my GitHub profile. Here you'll find a collection of my projects, contributions, and interests. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
 ---
+## Slow is smooth and smooth is fast.
 
 #### 🚀 About Me
 - 💻 A low-level embedded developer.
@@ -17,7 +18,7 @@ Welcome to my GitHub profile. Here you'll find a collection of my projects, cont
 ![lawslefthand's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawslefthand&show_icons=true&theme=radical)
 
 #### 📫 How to reach me
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/aryan-basnet-446973235/)
+- **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/aryan-basnet-446973235/)
   
 
 ---
