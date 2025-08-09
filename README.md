@@ -6,9 +6,9 @@ Welcome to my GitHub profile. Here you'll find a collection of my projects, cont
 ## Slow is smooth and smooth is fast.
 
 #### 🚀 About Me
-- 💻 A low-level embedded developer.
-- 🛠️ Expertise in Espressif's IoT Development Framework, ARM's CMSIS standard for their ARM Cortex-M series MCUs, and have also written projects in AVR Assembly for ATmega's older MCUs.
-- 🌱 Currently working on low-level drivers using the arm-cmsis standard on stm32 mcus.
+- A low-level embedded developer.
+- Experience in Espressif's IoT Development Framework, ARM's CMSIS standard for their ARM Cortex-M series MCUs, and have also written projects in AVR Assembly for ATmega's older MCUs.
+- Currently working on low-level drivers using the arm-cmsis standard on stm32 mcus.
 
 #### 🔧 Technologies & Tools
 - **Languages:** C, AVR Assembly
