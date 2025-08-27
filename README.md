@@ -1,18 +1,18 @@
 
----
 ## Slow is smooth and smooth is fast.
 
-#### About Me
-- A low-level embedded developer.
-- Experience in Espressif's IoT Development Framework, ARM's CMSIS standard for their ARM Cortex-M series MCUs, and have also written projects in AVR Assembly for ATmega's older MCUs.
-- Currently working on low-level drivers using the arm-cmsis standard on stm32 mcus.
+### About Me
 
-####  Technologies & Tools
-- **Languages:** C, AVR Assembly
-- **Tools:** STM32 Cube IDE, Espressif IDF and IDE, Microchip/Atmel Studio
+* Embedded dev who prefers talking to silicon directly instead of hiding behind layers of frameworks.
+* I’ve wrestled with Espressif’s IDF,ARM CMSIS, and even hand‑fed AVR MCUs with raw Assembly back in the day (fy of my btech lmao).
+* Currently way too deep in STM32, writing low‑level drivers with CMSIS and way too much coffee.
 
+### Tech & Tools
 
+* **Languages:** C (my daily driver), AVR Assembly (sometimes you gotta suffer to learn).
+* **Tools:** STM32CubeIDE, Espressif IDF, Microchip/Atmel Studio.
 
 ---
 
 Stay frosty.
+
