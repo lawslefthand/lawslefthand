@@ -1,6 +1,3 @@
-### Hi there, I'm lawslefthand!
-
-Welcome to my GitHub profile. Here you'll find a collection of my projects, contributions, and interests. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
 ---
 ## Slow is smooth and smooth is fast.
