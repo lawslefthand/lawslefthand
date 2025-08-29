@@ -10,6 +10,7 @@
 * Currently way too deep in STM32, writing low‑level drivers with CMSIS and way too much coffee.
 
 ### Tools of the trade.
+<img width="590" height="233" alt="image" src="https://github.com/user-attachments/assets/e332b436-c10b-4cce-a04f-cbecd5c24e67" />
 
 * **Languages:** C (my daily driver), AVR Assembly (sometimes you gotta suffer to learn).
 * **Tools:** STM32CubeIDE, Espressif IDF, Microchip/Atmel Studio.
