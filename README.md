@@ -2,6 +2,8 @@
 ## Slow is smooth and smooth is fast.
 
 ### Literally Me?
+<img width="1000" height="664" alt="image" src="https://github.com/user-attachments/assets/9616ed38-99a1-4e88-8954-c55436e53eaa" />
+
 
 * Embedded dev who prefers talking to silicon directly instead of hiding behind layers of frameworks.
 * I’ve wrestled with Espressif’s IDF,ARM CMSIS, and even hand‑fed AVR MCUs with raw Assembly back in the day (fy of my btech lmao).
